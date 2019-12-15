@@ -7,3 +7,5 @@ class LoginRegister_manager:
     def Login_validation(self, User_name, Password):
         if self.User_name == User_name and self.Password == Password:
             return True
+        else:
+            return False
