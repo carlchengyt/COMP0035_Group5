@@ -1,5 +1,9 @@
+# This class is created by Yifeng Zhao
+# Student Number: 17077657
+
+
 class LoginRegister_manager:
-    # This class is created by Yifeng Zhao
+
     def __init__(self, User_name, Password):
         self.User_name = "username"
         self.Password = "password"
