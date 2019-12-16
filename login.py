@@ -1,5 +1,6 @@
 class LoginRegister_manager:
     # This class is created by Yifeng Zhao
+    # abc
     def __init__(self, User_name, Password):
         self.User_name = "username"
         self.Password = "password"
