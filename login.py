@@ -1,7 +1,6 @@
 # This class is created by Yifeng Zhao
 # Student Number: 17077657
 
-#12
 class LoginRegister_manager:
 
     def __init__(self, User_name, Password):
