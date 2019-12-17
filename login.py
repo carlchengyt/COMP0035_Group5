@@ -3,7 +3,7 @@
 
 
 class LoginRegister_manager:
-#asa 
+
     def __init__(self, User_name, Password):
         self.User_name = "username"
         self.Password = "password"
