@@ -1,5 +1,6 @@
 # This class is created by Yifeng Zhao
 # Student Number: 17077657
+# A comment is added
 
 class LoginRegister_manager:
 
