@@ -13,3 +13,6 @@ class LoginRegister_manager:
             return True
         else:
             return False
+
+    def Registration(self, User_name, Password):
+        pass
