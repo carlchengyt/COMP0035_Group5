@@ -1,6 +1,6 @@
 # This class is created by SHIRUI LI
 # Student Number: 17050059
-# new updates
+# new updates by SHIRUI LI
 class Comment:
     def __init__(self, comment_id, content):
         self.comment_id = comment_id
